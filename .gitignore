@@ -27,3 +27,4 @@ go.work.sum
 results/
 test_photos/
 .idea/
+logs/
